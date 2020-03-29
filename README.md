@@ -5,7 +5,9 @@ TMi Developing Bot Tool 1.0.0
 | TO iNSTALL |
 +------------+
 
-Clone the folder, setup the .env file and launch it all!
+Clone the folder, run `npm install`, setup the .env file and launch!
+
+Simple as 1, 2, 3!
 
 #### **THANKS for using TDBT, TMi Dev Bot Tool**
 
