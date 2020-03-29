@@ -1,20 +1,23 @@
 /**
  * ───────────────────────────────────────────────────────────────────────────────────────
+ * @summary			TMi Developing Bot Tool 1.0.0
+ *
+ * @description THANKS for using this script!
  * 
- * @description This tool connects on Twitch, joins the user's chat room and stores all
- *              datas provided by event handlers as an object.  Datas can be stored in
- * 							a unique file or in separated file for each events.
+ * 							This tool connects on Twitch, joins the user's chat room and stores, as
+ * 							an object, all data provided by the event handlers.  Data can be stored 
+ * 							in a unique file or in separated files for each event.
  * 						
- * 							You can also use this as a skeleton for a Twitch bot, since it contains
- * 							all events triggered by TMi.
+ * 							You can also use this as a starter for a Twitch bot, since it contains
+ * 							all events triggered by TMi.  
  *
  * 							NOTE : due to the massive amount of data provied by the `raw_message`
- * 							event, this one is commented.  Just uncomment it to access the datas.
+ * 							event, this one is commented.  Just uncomment it to access the data.
  * 
- * 							PLEASE DO NOT REPORTR any bug you could find, other then the TMi librairy
- * 							doesn't exist anymore so I can update/remove the whole thing.  If you
- * 							can't debug this, creating a bot will be a hard task to accomplish.. not
- * 							impossible, but hard!
+ * 							PLEASE DO NOT REPORT you may find, other then the TMi librairy doesn't
+ * 							exist anymore so I can update/remove the whole thing.  If you can't debug
+ * 							this, creating a bot will be a hard task to accomplish.. not impossible,
+ * 							but hard!
  * 
  * 							Thanks for using this script!  Feel free to share the repo with your
  * 							entourage : https://github.com/zaksoyer/tmidevbottool/
@@ -33,9 +36,11 @@
  * 
  * ───────────────────────────────────────────────────────────────────────────────────────
  * 
- * 	Date created#	: 2020-03-29
- * 	Author				: Zak Soyer
- * 	Version				: 1.0.0 
+ * 	Date created 		: 2020-03-28
+ *  Date published	: 2020-03-29
+ * 	Licence					: GNU - Feel free to share!
+ * 	Author					: Zak Soyer
+ * 	Version					: 1.0.0 
  * 
  * ───────────────────────────────────────────────────────────────────────────────────────
  */
