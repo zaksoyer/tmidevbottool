@@ -1,0 +1,20 @@
+{
+  "name": "tmidevbottool",
+  "version": "1.0.0",
+  "description": "Twitch TMi Developing Bot Tool : Can be used as debugger or skeleton for a Twitch bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["tmi", "twitch", "twitchbot", "automation"],
+  "author": "Zak Soyer",
+  "license": "GNU",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/tmi.js": "^1.4.0"
+  }
+}

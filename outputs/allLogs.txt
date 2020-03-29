@@ -1,0 +1,6 @@
+{"address":"irc-ws.chat.twitch.tv","port":443}
+"\"logon event triggered, no output provided\""
+{"address":"irc-ws.chat.twitch.tv","port":443}
+{"channel":"#thepage","username":"stefanieeb","self":true}
+{"channel":"#thepage","state":{"emote-only":false,"followers-only":"-1","r9k":false,"rituals":false,"room-id":"440096201","slow":false,"subs-only":false,"channel":"#thepage"}}
+{"sets":"0","obj":{}}
